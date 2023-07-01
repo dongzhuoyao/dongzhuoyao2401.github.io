@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='http://uva.nl'>University of Amsterdam</a>.
 
 profile:
   align: right
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography hereeee. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Final-year PhD, VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Focused on introducing inductive bias into neural network to achieve data-efficiency by few-shot learning, generative model, etc. Have a conviction that generative modelling will be the future of discriminative modelling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm on the job market. Feel free to contact me. [AIGC expert]
+
+<div>
+<img src="./assets/img/wechat.jpeg" height="260" alt="Tao Hu's wechat" border="0">
+</div>

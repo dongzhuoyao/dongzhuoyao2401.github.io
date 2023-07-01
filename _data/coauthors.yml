@@ -1,34 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Hu":
+  - firstname: ["Vincent Tao", "Tao"]
+    url: https://taohu.me/
+"Hu*":
+  - firstname: ["Vincent Tao", "Tao"]
+    url: https://taohu.me/
+"Thong":
+  - firstname: ["William"]
+    url: https://scholar.google.nl/citations?user=CPuz5p4AAAAJ&hl=en
+"Asano":
+  - firstname: ["Yuki M."]
+    url: https://yukimasano.github.io/
+"Zhang":
+  - firstname: ["David W"]
+    url: https://davzha.netlify.app/
+"Gavves":
+  - firstname: ["Efstratios"]
+    url: https://www.egavves.com/
+"Mettes":
+  - firstname: ["Pascal"]
+    url: https://staff.fnwi.uva.nl/p.s.m.mettes/
+"Lippe":
+  - firstname: ["Phillip"]
+    url: https://phlippe.github.io/
+"Snoek":
+  - firstname: ["Cees", "Cees G.M.", "Cees GM"]
+    url: https://www.ceessnoek.info/

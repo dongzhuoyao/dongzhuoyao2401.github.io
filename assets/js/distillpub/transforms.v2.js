@@ -9840,7 +9840,7 @@
   });
 
   // An underline
-  defineFunction("\\underline", {
+  defineFunction("\", {
       numArgs: 1
   }, function (context, args) {
       var body = args[0];
@@ -10268,7 +10268,7 @@
   });
 
   // Stretchy accents under the body
-  defineFunction(["\\underleftarrow", "\\underrightarrow", "\\underleftrightarrow", "\\undergroup", "\\underlinesegment", "\\undertilde"], {
+  defineFunction(["\\underleftarrow", "\\underrightarrow", "\\underleftrightarrow", "\\undergroup", "\segment", "\\undertilde"], {
       numArgs: 1
   }, function (context, args) {
       var body = args[0];
