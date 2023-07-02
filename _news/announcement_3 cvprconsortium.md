@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am selected for CVPR 2023 Doctoral Consortium. Here is the Summary of my PhD Research.
+I am selected for CVPR 2023 Doctoral Consortium. Here is the [Summary of my PhD Research](./assets/pdf/research_statement_taohu_cvpr_doctor_consortium.pdf).

@@ -23,7 +23,9 @@ Final-year PhD, VISLab, University of Amsterdam, supervised by [Cees Snoek](http
 
 Focused on introducing inductive bias into neural network to achieve data-efficiency by few-shot learning, generative model, etc. Have a conviction that generative modelling will be the future of discriminative modelling.
 
-I'm on the job market. Feel free to contact me. [AIGC expert]
+<p align="justify" class="content" style="color:#red">
+            <strong>I'm on the job market. Feel free to contact me. [AIGC expert]</strong>
+            </p>
 
 <div>
 <img src="./assets/img/wechat.jpeg" height="260" alt="Tao Hu's wechat" border="0">
