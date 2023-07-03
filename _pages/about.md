@@ -27,6 +27,17 @@ Focused on introducing inductive bias into neural network to achieve data-effici
             <strong>I'm on the job market. Feel free to contact me. [AIGC expert]</strong>
             </p>
 
+  <p align="justify" class="content" style="color:#red">
+                <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=EchdyZEAAAAJ" target="_blank">Publication</a></strong>
+                  | <strong><a href="https://github.com/dongzhuoyao" target="_blank">GitHub</a>  </strong>
+                  | <strong><a href="https://drive.google.com/file/d/1fIzSq-eKtsgihB66yWQySWhiUIoAvv8q/view?usp=share_link" target="_blank">CV(updated in July.2023)</a>  </strong>
+                  |<strong>  <br> <a href="https://www.linkedin.com/in/taohu620/" target="_blank">LinkedIn</a>  </strong>
+                  |<strong>  <a href="https://taohu.notion.site/Research-Note-b95da0911249407488ccf9e3f6730085" target="_blank">Research Note</a>  </strong>  
+                  |<strong> <a href="https://cal.com/hu-tao-leakvj/30min" target="_blank">Chat with me</a>  </strong>
+                  |<strong><a href="https://drive.google.com/file/d/1C_oQTSqua-_0001MtwJHyFfMKb-TKl8k/view?usp=sharing" target="_blank">Wechat</a>  </strong>
+                  
+</p>
+
 <div>
 <img src="./assets/img/wechat.jpeg" height="260" alt="Tao Hu's wechat" border="0">
 </div>
