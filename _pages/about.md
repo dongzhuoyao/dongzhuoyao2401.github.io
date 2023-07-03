@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>L4.27</p>
-    <p>Lab42, Science Park, 1098XH</p>
-    <p>Amsterdam, the Netherlands</p>
+    <p>Lab 42, 4.27</p>
+    <p>Science Park 900</p>
+    <p>University of Amsterdam</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
