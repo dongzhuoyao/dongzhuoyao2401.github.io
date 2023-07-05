@@ -218,7 +218,23 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 preview">
+<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/mainpage/assets/img/publication_preview/fm-s2s-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/mainpage/assets/img/publication_preview/fm-s2s-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/mainpage/assets/img/publication_preview/fm-s2s-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/mainpage/assets/img/publication_preview/fm-s2s.png" class="preview z-depth-1 rounded" width="auto" height="auto" alt="./fm-s2s.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+</div>
 
         <!-- Entry bib key -->
         <div id="huflowseq" class="col-sm-8">
@@ -235,10 +251,10 @@
         
         
         <div class="periodical">
-          <em>In In Submission</em>, 2023
+          <em>In Submission</em>, 2023
         </div>
         <div class="periodical">
-          
+          <strong style="color:#d4001b;font-size: small;"> Flow Matching for text generation </strong>
         </div>
 
           <!-- Links/Buttons -->
@@ -295,7 +311,7 @@
           <em>In CVPR</em>, 2023
         </div>
         <div class="periodical">
-          
+          <strong style="color:#d4001b;font-size: small;"> A bridge between the community of self-supervised learning and diffusion models. </strong>
         </div>
 
           <!-- Links/Buttons -->
