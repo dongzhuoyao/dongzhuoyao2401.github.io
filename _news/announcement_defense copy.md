@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Committee members confirmed: Theo Gevers, Marcel Worring, Efstratios Gavves, Bernard Ghanem, Tim Salimans
+Committee members confirmed: Theo Gevers, Marcel Worring, Efstratios Gavves, Bernard Ghanem, Tim Salimans. :smile:

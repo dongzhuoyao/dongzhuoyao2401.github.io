@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to present my works at [FoMo lectures](https://pbloem.github.io/fomo/about/), KAUST, [JiangMen](https://mp.weixin.qq.com/s/iSHhxQGQC_bk5jLUiwSm9g), and DAD. Thanks for the invitation from Peter Bloem, Bernard, and Weijian Luo.
+Happy to present my works at [FoMo lectures](https://pbloem.github.io/fomo/about/), KAUST, [JiangMen](https://mp.weixin.qq.com/s/iSHhxQGQC_bk5jLUiwSm9g). Thanks for the invitation from Peter Bloem, Bernard.
