@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers about the flow matching is submitted, thanks to my coorporators~  :sparkles: :smile:
+Two papers about the flow matching are submitted, thanks to my coorporators~  :sparkles: :smile:
