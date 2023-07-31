@@ -21,6 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Final-year PhD, VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/).
 
+<p align="justify" class="content" style="color:#red">
+            <strong>Open to discussion and collaboration, feel free to send an email or message on WeChat.</strong>
+            </p>
+
 Focused on introducing inductive bias into neural network to achieve data-efficiency by few-shot learning, generative model, etc. Have a conviction that generative modelling will be the future of discriminative modelling.
 
 <p align="justify" class="content" style="color:#red">
