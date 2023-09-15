@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I will continue my generative AI journal as postdoc in [ommer-group](https://ommer-lab.com/). ~~Final-year PhD~~, I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
+I will continue my generative AI journal as postdoc in [Stable Diffusion Group](https://ommer-lab.com/). ~~Final-year PhD~~, I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
 
 
 <p align="justify" class="content" style="color:#red">
