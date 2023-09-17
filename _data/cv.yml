@@ -37,11 +37,27 @@
         - Geodesy
         #- Description 2.
 
-- title: Supervision
+- title: Supervision and Cooporations
   type: map
   contents:
-    - name: Jacob Schnell (Bachelor of UWaterloo)
+    - name: 2023, Jacob Schnell ( Bachelor of UWaterloo )
       value: Diffusion Models for Label-efficient Segmentation
+    - name: 2023, Divin Yan ( Fudan University )
+      value: Diffusion Models
+    - name: 2022,  Andrea Rigo (Master of UTrento) 
+      value: Depth-aware generative modeling
+    - name : 2021,  Martine Toering(M.S. of UvA)
+      value: Self-supervised Video Representation Constrasting with RGB and Flow, Published in WACV 2021
+    - name: 2021, Hinrik Snær(M.S. of UvA)
+      value: Efficient image segmentation
+    - name: 2020, Pengwan Yang(M.S. from Peking Univerisity)
+      value: Localizing common action among a few videos, Published in ECCV 2020 
+    - name: 2019, Martine Toering(B.A. of UvA)
+      value: Video Classification from scratch.
+    - name: 2019, Paulien Rouwendaal(M.S. of UvA)
+      value:  Full and point supervised learning strategies for table cell detection.
+    
+    
 
 
 #- title: Experience
