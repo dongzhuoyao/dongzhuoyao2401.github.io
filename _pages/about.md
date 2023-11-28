@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://uva.nl'>University of Amsterdam</a>.
+subtitle: <a href='https://ommer-lab.com'>Ommer Lab</a>.
 
 profile:
   align: right
