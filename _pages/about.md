@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Lab 42, 4.27</p>
-    <p>Science Park 900</p>
-    <p>University of Amsterdam</p>
+    <p>Computer Vision & Learning Group</p>
+    <p>Akademiestr. 7,Munich</p>
+    <p>Ludwig Maximilian University of Munich</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a  PostDoc Researcher with Bjorn Ommer in [Ommer-Group ( Stable Diffusion Group )](https://ommer-lab.com/). I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
+I am a  PostDoc Researcher with [Bjorn Ommer](https://scholar.google.de/citations?user=zWbvIUcAAAAJ&hl=en) in [Ommer-Group ( Stable Diffusion Group )](https://ommer-lab.com/). I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
 
 
 <p align="justify" class="content" style="color:#red">
