@@ -21,9 +21,12 @@ social: true  # includes social icons at the bottom of the page
 
 I am a  PostDoc Researcher with [Bjorn Ommer](https://scholar.google.de/citations?user=zWbvIUcAAAAJ&hl=en) in [Ommer-Group ( Stable Diffusion Group )](https://ommer-lab.com/). I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
 
+<p align="justify" class="content" style="color:#red">
+            <strong>I am recruiting for Bachelor, Master and PhD supervision in Munich and globally. If you're interested in collaborating, feel free to send an email.</strong>
+            </p>
 
 <p align="justify" class="content" style="color:#red">
-            <strong>Open to discussion and collaboration, feel free to send an email or message on WeChat.</strong>
+            <strong>Open to discussion and collaboration, feel free to send an email.</strong>
             </p>
 
 Focused on introducing inductive bias into neural network to achieve data-efficiency by few-shot learning, generative model, etc. Have a conviction that generative modelling will be the future of discriminative modelling.
