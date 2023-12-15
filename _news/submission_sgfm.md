@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-An extension paper on self-guided diffusion models has been submitted, co-authored by Mathilde Caron and Yuki Asano. Stay tuned for updates. :sparkles:
+[An extension paper on self-guided diffusion models](https://arxiv.org/abs/2312.08825) has been submitted, co-authored by Mathilde Caron and Yuki Asano. Stay tuned for updates. :sparkles:
 
