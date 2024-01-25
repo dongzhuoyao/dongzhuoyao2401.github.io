@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Fellow with [Bjorn Ommer](https://scholar.google.de/citations?user=zWbvIUcAAAAJ&hl=en) in [Ommer-Group ( Stable Diffusion Group )](https://ommer-lab.com/). I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki M. Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
+I am a Postdoctoral Research Fellow with [Björn Ommer](https://scholar.google.de/citations?user=zWbvIUcAAAAJ&hl=en) in [Ommer-Group ( Stable Diffusion Group )](https://ommer-lab.com/). I finished my PhD at VISLab, University of Amsterdam, supervised by [Cees Snoek](https://www.ceessnoek.info/) and [Pascal Mettes](https://staff.fnwi.uva.nl/p.s.m.mettes/). Closely coorporated with [David W Zhang](https://davzha.netlify.app/), [Yuki M. Asano](https://yukimasano.github.io/), [Basura Fernando](https://basurafernando.github.io/).
 
 <p align="justify" class="content" style="color:#red">
             <strong>I am recruiting for Bachelor, Master and PhD supervision in Munich and globally. If you're interested in collaborating, feel free to send an email.</strong>
