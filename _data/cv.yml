@@ -40,10 +40,12 @@
 - title: Supervision and Cooporations
   type: map
   contents:
+  - name: 2024, Wangyang Wu (  University of Amsterdam )
+      value: Generative Models
     - name: 2023, Jacob Schnell ( Bachelor of UWaterloo )
       value: Diffusion Models for Label-efficient Segmentation
     - name: 2023, Divin Yan ( Fudan University )
-      value: Diffusion Models
+      value: Diffusion Models on Long-tailed Data
     - name: 2022,  Andrea Rigo (Master of UTrento) 
       value: Depth-aware generative modeling
     - name : 2021,  Martine Toering(M.S. of UvA)
